@@ -6,11 +6,11 @@
 * [cc game player](#cc_game_player)
 * [cc game editor](#cc_game_editor)
 * [why](#why)
-# [項目結構](#項目結構)
+* [項目結構](#項目結構)
 
 # cc_game_player
 
-cc game player 是一個戰旗運行平臺，其受到了曹操傳 和其 mod 的啓發，目的在於爲曹操傳及其 mod 提供一個跨平臺的運行環境，以便方便的將其部署到不同平臺上遊玩。
+cc game player 是一個戰旗遊戲運行平臺，其受到了曹操傳 和其 mod 的啓發，目的在於爲曹操傳及其 mod 提供一個跨平臺的運行環境，以便方便的將其部署到不同平臺上遊玩。
 
 目前 cc game player 尚處於內部初始階段，等一切就緒後預計會以免費 app 的形式上架到 google play store，以便和本喵一樣的曹操傳愛好者可以使用 android 手機玩曹操傳。後續將依據 cc game player 的受歡迎程度決定是否發佈到其它平臺(畢竟本喵一個人又沒有資金援助，不想做太多費力而不討好的工作)
 
@@ -31,5 +31,5 @@ cc game editor 是一個 android app 讓你可以使用 android 作爲遊戲開�
     * theater 劇場舞臺
     * props 劇場對象圖像資源
     * object 劇場對象定義
-    * level 關卡定義
+    * scripts 劇本
 
